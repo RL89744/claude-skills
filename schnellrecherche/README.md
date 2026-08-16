@@ -1,4 +1,5 @@
 # schnellrecherche
+<img width="1584" height="396" alt="deviantart" src="https://github.com/user-attachments/assets/644fbd6d-2ce6-462b-b1e6-8d7232fd2df0" />
 
 Ein Claude Skill für den kurzen Rechercheauftrag: ein Thema aus mehreren
 Quellen prüfen und als kompakten, belegten Überblick ausgeben. Ergebnis bleibt
