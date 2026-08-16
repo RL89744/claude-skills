@@ -1,4 +1,5 @@
 # chat-compaction
+<img width="2048" height="1365" alt="Home_Sachwert-2048x1365" src="https://github.com/user-attachments/assets/b9e0d7a8-1c1f-4029-9ea0-4cc35adfda14" />
 
 Ein Claude Skill, der einen langen Chat zu einem strukturierten Handover-Block
 verdichtet, den man als erste Nachricht in einen neuen Chat einfügt. Der neue
