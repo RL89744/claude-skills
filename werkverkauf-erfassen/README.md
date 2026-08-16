@@ -1,5 +1,5 @@
 # werkverkauf-erfassen
-
+<img width="1280" height="728" alt="Hundekopf_Leonardo_da_Vinci_Windsor" src="https://github.com/user-attachments/assets/8128a624-ba53-41cd-93d6-97893baf48df" />
 Ein Claude Skill für Künstler:innen, Fotograf:innen und andere, die
 Originale oder limitierte Editionen verkaufen und dafür bereits eine Art
 Werkkatalog führen (Obsidian, Markdown-Tabellen, CSV — egal welches Format).
