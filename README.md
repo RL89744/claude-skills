@@ -1,4 +1,5 @@
-# claude-skills
+## Überschrift 2 claude-skills
+<img width="3840" height="2160" alt="siednji-leon-37DAG6YAqWk-unsplash" src="https://github.com/user-attachments/assets/a45eb453-bfa8-4731-a4ce-29c1e124adea" />
 
 Eine Sammlung von [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) —
 wiederverwendbare Anleitungen, die Claude (Claude Code, Claude Agent SDK,
