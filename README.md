@@ -13,9 +13,12 @@ demselben Ablauf abarbeiten lässt.
 | [`rechnung-erstellen`](rechnung-erstellen/) | Rechtskonforme PDF-Rechnung (§14 UStG) aus wenigen Angaben erzeugen — Kleinunternehmer, Reverse Charge inklusive | Deutsch |
 | [`vertrag-pruefen`](vertrag-pruefen/) | Verträge und AGB analysieren, problematische Klauseln markieren, klare Empfehlung zur Unterzeichnung | Deutsch |
 | [`werkverkauf-erfassen`](werkverkauf-erfassen/) | Verkauf eines Kunstwerks im bestehenden Werkkatalog erfassen, Preis vorschlagen, Daten für eine Rechnung vorbereiten | Deutsch |
+| [`chat-in-obsidian-speichern`](chat-in-obsidian-speichern/) | Den laufenden Chat als strukturierte Notiz im Obsidian-Vault ablegen — Entscheidungen, Umgesetztes, offene Punkte statt Volltranskript | Deutsch |
 
 Jeder Ordner enthält eine `SKILL.md` (die eigentliche Anleitung, die Claude
 lädt) und eine eigene `README.md` mit Installations- und Verwendungshinweisen.
+Manche Skills bringen zusätzlich einen Ordner `references/` mit ausgelagerten
+Details mit, den Claude erst bei Bedarf nachlädt.
 
 ## Installation
 
