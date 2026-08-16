@@ -1,4 +1,5 @@
 # ki-spuren-entfernen
+<img width="2200" height="1100" alt="Large-BALENCIAGA_JERSEY_2200x1100px_DESKTOP_W_03_2544" src="https://github.com/user-attachments/assets/2feb2019-6418-4fed-a39e-c34ccbf50219" />
 
 Ein Claude Skill, der deutschen Texten die typischen Spuren maschineller
 Erzeugung austreibt. 23 katalogisierte Muster, jeweils mit Beispiel, Diagnose
