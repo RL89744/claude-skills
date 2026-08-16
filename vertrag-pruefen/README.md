@@ -1,4 +1,5 @@
 # vertrag-pruefen
+<img width="2400" height="1600" alt="giorgio-trovato-B_fW48ju_HE-unsplash" src="https://github.com/user-attachments/assets/ac22f68e-77aa-433f-9cd5-300c9d2defee" />
 
 Ein Claude Skill, der Verträge, AGB und andere juristische Dokumente
 analysiert: Juristensprache wird in verständliches Deutsch übersetzt,
