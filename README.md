@@ -8,12 +8,29 @@ demselben Ablauf abarbeiten lässt.
 
 ## Skills in diesem Repo
 
-| Skill | Zweck | Sprache |
-|---|---|---|
-| [`rechnung-erstellen`](rechnung-erstellen/) | Rechtskonforme PDF-Rechnung (§14 UStG) aus wenigen Angaben erzeugen — Kleinunternehmer, Reverse Charge inklusive | Deutsch |
-| [`vertrag-pruefen`](vertrag-pruefen/) | Verträge und AGB analysieren, problematische Klauseln markieren, klare Empfehlung zur Unterzeichnung | Deutsch |
-| [`werkverkauf-erfassen`](werkverkauf-erfassen/) | Verkauf eines Kunstwerks im bestehenden Werkkatalog erfassen, Preis vorschlagen, Daten für eine Rechnung vorbereiten | Deutsch |
-| [`chat-in-obsidian-speichern`](chat-in-obsidian-speichern/) | Den laufenden Chat als strukturierte Notiz im Obsidian-Vault ablegen — Entscheidungen, Umgesetztes, offene Punkte statt Volltranskript | Deutsch |
+### Geschäft und Recht
+
+| Skill | Zweck |
+|---|---|
+| [`rechnung-erstellen`](rechnung-erstellen/) | Rechtskonforme PDF-Rechnung (§14 UStG) aus wenigen Angaben erzeugen, Kleinunternehmer und Reverse Charge inklusive |
+| [`vertrag-pruefen`](vertrag-pruefen/) | Verträge und AGB analysieren, problematische Klauseln markieren, klare Empfehlung zur Unterzeichnung |
+| [`werkverkauf-erfassen`](werkverkauf-erfassen/) | Verkauf eines Kunstwerks im bestehenden Werkkatalog erfassen, Preis vorschlagen, Daten für eine Rechnung vorbereiten |
+
+### Text und Recherche
+
+| Skill | Zweck |
+|---|---|
+| [`ki-spuren-entfernen`](ki-spuren-entfernen/) | Deutschen Texten die typischen KI-Muster austreiben, 23 katalogisierte Tells mit Beispiel und Alternative |
+| [`schnellrecherche`](schnellrecherche/) | Ein Thema aus mehreren Quellen prüfen und als kompakten, belegten Überblick ausgeben, Widersprüche inklusive |
+
+### Chat und Wissen
+
+| Skill | Zweck |
+|---|---|
+| [`chat-compaction`](chat-compaction/) | Langen Chat zu einem Handover-Block verdichten, der in einem neuen Chat tokensparend weiterläuft |
+| [`chat-in-obsidian-speichern`](chat-in-obsidian-speichern/) | Den laufenden Chat als strukturierte Notiz im Obsidian-Vault ablegen, Entscheidungen und offene Punkte statt Volltranskript |
+
+Alle Skills sind deutschsprachig.
 
 Jeder Ordner enthält eine `SKILL.md` (die eigentliche Anleitung, die Claude
 lädt) und eine eigene `README.md` mit Installations- und Verwendungshinweisen.
@@ -53,5 +70,9 @@ MIT — siehe [LICENSE](LICENSE). Gilt für alle Skills in diesem Repo.
 ## Hinweis
 
 Diese Skills sind für den deutschsprachigen Raum geschrieben (deutsches
-Steuer- und Vertragsrecht, deutsche Zahlen-/Datumsformate). Sie ersetzen
-keine Steuer- oder Rechtsberatung.
+Steuer- und Vertragsrecht, deutsche Zahlen-/Datumsformate, deutsche
+Sprachmuster). Sie ersetzen keine Steuer- oder Rechtsberatung.
+
+Einzelne Skills verweisen aufeinander oder auf Skills, die nicht Teil dieses
+Repos sind. Die jeweilige `README.md` sagt im Abschnitt *Konfiguration*, was
+vor der ersten Nutzung angepasst werden muss.
