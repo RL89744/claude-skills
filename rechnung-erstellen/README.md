@@ -1,4 +1,5 @@
 # rechnung-erstellen
+<img width="3034" height="1707" alt="Robert_Lanz_LISTE_23_Painting_art_kunst_BERLIN ß90UI" src="https://github.com/user-attachments/assets/2004e482-fc40-4bbb-b4bd-2866b13406ad" />
 
 Ein Claude Skill, der aus wenigen Angaben (Empfänger, Leistung, Betrag) eine
 saubere, nach deutschem Recht (§14 UStG) vollständige PDF-Rechnung erzeugt —
