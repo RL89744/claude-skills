@@ -1,5 +1,5 @@
 # chat-in-obsidian-speichern
-<img width="1280" height="720" alt="ROBERT_LANZ 6453R" src="https://github.com/user-attachments/assets/c861a861-910a-4cff-a620-b531d9d89570" />
+<img width="2400" height="1493" alt="rick-rothenberg-UTOxyAK6FhY-unsplash" src="https://github.com/user-attachments/assets/b7d53c2e-02e0-4417-bb58-2017f18d76bd" />
 
 Ein Claude Skill, der das laufende Gespräch als strukturierte Notiz in einem
 Obsidian-Vault ablegt. Kein Volltranskript, sondern eine Zusammenfassung, die
