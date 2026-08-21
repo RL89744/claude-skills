@@ -1,7 +1,6 @@
 ---
 name: chat-compaction
-description: Komprimiert den aktuellen Chat zu einem strukturierten Handover-Block, mit dem der User in einem neuen Chat tokensparend weiterarbeiten kann. Triggert IMMER bei "/compact", "/komprimieren", "komprimier den chat", "kompaktiere", "fasse den chat zusammen für neuen chat", "handover", "chat-übergabe", "übergebe den chat", "neuer chat fortsetzen", "context komprimieren", "token sparen chat", oder wenn der User signalisiert dass der Chat zu lang wird / das Limit nahe ist. Emuliert das serverseitige Compaction-Feature der Claude API für die Consumer-App. Nicht für: einfache Zusammenfassungen ("fasse zusammen") ohne Handover-Absicht.
----
+description: Komprimiert den aktuellen Chat zu einem strukturierten Handover-Block für neue Chats — Tokens sparen ohne den alten Chat zu löschen. Triggert bei `/compact`, `/komprimieren`, `komprimier den chat` oder ähnlichen Handover-Anforderungen.---
 
 # Chat Compaction (Handover für neuen Chat)
 
