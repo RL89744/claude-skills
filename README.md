@@ -29,6 +29,7 @@ demselben Ablauf abarbeiten lässt.
 |---|---|
 | [`chat-compaction`](chat-compaction/) | Langen Chat zu einem Handover-Block verdichten, der in einem neuen Chat tokensparend weiterläuft |
 | [`chat-in-obsidian-speichern`](chat-in-obsidian-speichern/) | Den laufenden Chat als strukturierte Notiz im Obsidian-Vault ablegen, Entscheidungen und offene Punkte statt Volltranskript |
+| [`modell-wahl`](modell-wahl/) | Empfiehlt Haiku, Sonnet oder Opus für die anstehende Aufgabe und benennt die Kostenfaktoren, die schwerer wiegen als die Modellwahl |
 
 Alle Skills sind deutschsprachig.
 
